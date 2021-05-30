@@ -1,0 +1,50 @@
+body {
+    background: url('/img/anna-andrade-background.png') ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+    margin: 0 auto;
+}
+
+.container {
+    background-color: lightgrey;
+    width: 800px;
+    height: 850px;
+    border: 15px solid rgb(85, 164, 184);
+    padding: 0 35px 0 35px;
+    margin: 0px;
+}
+
+h1 {
+    color: rgb(90, 75, 75);
+    text-align: center;
+    line-height:normal;
+    margin-top: 15px;;
+}
+
+h4 {
+    color: rgb(49, 123, 141);
+    margin-bottom: 15px;
+}
+
+p#intro {
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    margin: 0;
+}
+
+span {
+    color: rgb(151, 74, 74);
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+
